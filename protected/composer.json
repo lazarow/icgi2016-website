@@ -1,6 +1,7 @@
 {
-	"requires": {
-		"slim/slim": "latest",
-		"slim/twig-view": "latest"
+	"require": {
+		"php": ">=5.6.0",
+		"slim/slim": "3.8.1",
+		"slim/twig-view": "2.3.0"
 	}
 }
