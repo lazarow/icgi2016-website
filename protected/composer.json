@@ -1,0 +1,6 @@
+{
+	"requires": {
+		"slim/slim": "latest",
+		"slim/twig-view": "latest"
+	}
+}
